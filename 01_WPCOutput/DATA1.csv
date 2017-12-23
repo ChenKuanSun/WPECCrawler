@@ -1,0 +1,574 @@
+﻿代碼,類型,貨號,名稱,已發佈,是特色商品？,目錄的可見度,簡短描述,描述,特價開始日期,特價結束日期,稅金狀態,稅率類別,有庫存？,庫存,允許無庫存下單嗎？,單獨銷售?,重量 (kg),長 (cm),寬 (cm),高 (cm),允許客戶評論嗎？,購買備註,促銷價,原價,分類,標籤,運送類別,圖片,下載限制,下載點過期天數,上層,組合商品,向上銷售,交叉型,外部網址,底部文字,Position,Meta: _override_tab_layout,Meta: technical_specifications,Meta: _technical_specifications,Meta: related_documents,Meta: _related_documents,Meta: product_url,Meta: _product_url,Meta: power,Meta: _power,Meta: duration,Meta: _duration,Meta: _wfg_single_gift_allowed,Meta: voltage,Meta: _voltage,Meta: runtime_50,Meta: _runtime_50,Meta: runtime_100,Meta: _runtime_100,Meta: runtime_200,Meta: _runtime_200,Meta: runtime_300,Meta: _runtime_300,Meta: runtime_400,Meta: _runtime_400,Meta: runtime_500,Meta: _runtime_500,Meta: runtime_600,Meta: _runtime_600,Meta: runtime_700,Meta: _runtime_700,Meta: runtime_800,Meta: _runtime_800,Meta: runtime_900,Meta: _runtime_900,Meta: runtime_1000,Meta: _runtime_1000,Meta: runtime_1200,Meta: _runtime_1200,Meta: runtime_1400,Meta: _runtime_1400,Meta: runtime_1600,Meta: _runtime_1600,Meta: runtime_1800,Meta: _runtime_1800,Meta: runtime_2000,Meta: _runtime_2000,Meta: runtime_2500,Meta: _runtime_2500,Meta: runtime_3000,Meta: _runtime_3000,Meta: runtime_3500,Meta: _runtime_3500,Meta: runtime_4000,Meta: _runtime_4000,Meta: runtime_6000,Meta: _runtime_6000,Meta: runtime_8000,Meta: _runtime_8000,Meta: runtime_10000,Meta: _runtime_10000,Meta: runtime_12000,Meta: _runtime_12000,Meta: runtime_14000,Meta: _runtime_14000,Meta: runtime_16000,Meta: _runtime_16000,Meta: _webdados_fb_open_graph_specific_image,Meta: _webdados_fb_open_graph_specific_description
+56,simple,P8VNTG-TW,用于臺灣BSMI認證的個體浪涌定位,1,0,visible,用于臺灣BSMI認證的個體浪涌定位,"<div class=""tab-pane active"" id=""productoverview"" role=""tabpanel"">
+ <h4 class=""inner-padding"">
+  P8VNTG-TWFeatures
+ </h4>
+ <p class=""inner-padding"">
+  用于臺灣BSMI認證的個體浪涌定位
+ </p>
+ <ul class=""table-odd inner-padding"">
+  <li class=""col-md-12 bordered-block"">
+   <div class=""col-md-3 heading-4 bold"">
+    纜線保護
+   </div>
+   <div class=""col-md-9 heading-4"">
+    光滑塑膠環套提供合適的彎曲半徑。
+   </div>
+  </li>
+  <li class=""col-md-12 bordered-block"">
+   <div class=""col-md-3 heading-4 bold"">
+    噪音過濾
+   </div>
+   <div class=""col-md-9 heading-4"">
+    突波保護器削弱了 EMI/RFI 線的噪音，這種噪音可以導致資料錯誤和鍵盤鎖住，從而確保了受護設備效能更佳。
+   </div>
+  </li>
+  <li class=""col-md-12 bordered-block"">
+   <div class=""col-md-3 heading-4 bold"">
+    電路斷路器
+   </div>
+   <div class=""col-md-9 heading-4"">
+    從過載輕鬆恢復；無需更換溶絲。
+   </div>
+  </li>
+  <li class=""col-md-12 bordered-block"">
+   <div class=""col-md-3 heading-4 bold"">
+    狀態指示器 LED
+   </div>
+   <div class=""col-md-9 heading-4"">
+    可迅速看見裝置的狀態。
+   </div>
+  </li>
+ </ul>
+ <h4>
+  AV 突波保護器特點與優勢
+ </h4>
+ <div class=""accordion-block"">
+  <input class=""hidden accordion-checkbox"" id=""Safety"" type=""checkbox""/>
+  <label class=""accordion-title clearfix"" for=""Safety"">
+   <h5 class=""inner-padding"">
+    安全
+   </h5>
+   <div class=""pull-right accordion-title-icon"">
+    <i class=""glyphicon display-block"">
+    </i>
+   </div>
+  </label>
+  <div class=""accordion-body accordion-paddings"">
+   <ul class=""table-odd"">
+    <li class=""col-md-12 bordered-block"">
+     <div class=""col-md-3 heading-4 bold"">
+      災難事件保護
+     </div>
+     <div class=""col-md-9 heading-4"">
+      SurgeArrest 的元件，如 MOV 和溫度溶絲可確保對雷擊和佈線故障即時做出反應。如果突波元件由於電源尖波或過壓而損壞，超額的電量無法到達您的設備。與 APC 的 SurgeArrest 產品不同，大多數突波抑制器即使在電路已被損壞的情況下仍然繼續允許電量通過，使您的設備暴露在其他毀壞性突波下。
+     </div>
+    </li>
+    <li class=""col-md-12 bordered-block"">
+     <div class=""col-md-3 heading-4 bold"">
+      IEEE 限制級別（與 UL 1449 相容）
+     </div>
+     <div class=""col-md-9 heading-4"">
+      IEEE 檢測模擬 6.000 伏的突波，相當於遭到直接雷擊。允許通過額定電壓表示在有突波保護器抑制的情況下，將會到達您的設備的最大電壓。允許通過額定電壓越低表示保護越好。UL 抗破壞性突波和尖波的最大額定允許通過電壓為 330V。
+     </div>
+    </li>
+    <li class=""col-md-12 bordered-block"">
+     <div class=""col-md-3 heading-4 bold"">
+      建置佈線故障指示器
+     </div>
+     <div class=""col-md-9 heading-4"">
+      對於可能導致衝擊或防止充分抑制突波的佈線問題（如不正確的接地），即時向您發出警告。
+     </div>
+    </li>
+    <li class=""col-md-12 bordered-block"">
+     <div class=""col-md-3 heading-4 bold"">
+      失效保護模式
+     </div>
+     <div class=""col-md-9 heading-4"">
+      大多數突波抑制器即使在電路已被損壞的情況下仍然繼續允許電量通過，從而使您的設備暴露在其他毀壞性突波下。APC 的 SurgeArrest 故障安全，即一旦 APC SurgeArrest 的電路出現故障，此單元將斷開設備與電源之間的連接，以確保沒有毀壞性突波到達您的設備。
+     </div>
+    </li>
+   </ul>
+  </div>
+ </div>
+ <div class=""accordion-block"">
+  <input class=""hidden accordion-checkbox"" id=""Protection"" type=""checkbox""/>
+  <label class=""accordion-title clearfix"" for=""Protection"">
+   <h5 class=""inner-padding"">
+    系統保護
+   </h5>
+   <div class=""pull-right accordion-title-icon"">
+    <i class=""glyphicon display-block"">
+    </i>
+   </div>
+  </label>
+  <div class=""accordion-body accordion-paddings"">
+   <ul class=""table-odd"">
+    <li class=""col-md-12 bordered-block"">
+     <div class=""col-md-3 heading-4 bold"">
+      噪音過濾
+     </div>
+     <div class=""col-md-9 heading-4"">
+      突波保護器削弱了 EMI/RFI 線的噪音，這種噪音可以導致資料錯誤和鍵盤鎖住，從而確保了受護設備效能更佳。
+     </div>
+    </li>
+   </ul>
+  </div>
+ </div>
+ <div class=""no-gutter clearfix"">
+  <div class=""col-md-12 prod-distribution"">
+   <h5 class=""desktop-hidden heading-3"">
+    ?品分銷
+   </h5>
+   <h5 class=""mobile-hidden"">
+    ?品分銷
+   </h5>
+   <p class=""inner-padding bordered-block"">
+    台灣
+   </p>
+  </div>
+ </div>
+</div>
+",,,taxable,0,1,,0,0,1.23,6,18,45,1,,800,1000,"突波保護裝置(Surge) > SurgeArrest Performance, 突波保護裝置(Surge)",,,"http://www.apc.com/resource/images/500/Front_Left/103D8F94-5056-AE36-FE10BD2903BC71A4_pr.jpg, http://www.apc.com/resource/images/500/Miscellaneous/10469AE6-5056-AE36-FE6B2E2862CEF4FF_pr.jpg",,,,,,,,,0,no,"<div class=""tab-pane"" id=""techspecs"" role=""tabpanel"">
+ <span class=""print utilities"" onclick=""printvpd();"">
+  <span style=""margin-right:10px;"">
+   Print Technical Specification
+  </span>
+  <img height=""14px"" src=""/static/images/print_pdf.png"" width=""12px""/>
+ </span>
+ <!-- Iterate through the map of sections and propertiesl -->
+ <h4>
+  輸出
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    插座數
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   8.0
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    插座樣式
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   NEMA 5-15R
+  </li>
+ </ul>
+ <h4>
+  輸入
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <!-- Iterate through each section property values -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    標稱輸入電壓
+   </div>
+   120V
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    輸入頻率
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   50/60 Hz +/- 5 Hz（自動感應）
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    輸入連接類型
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   NEMA 5-15P
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    電源線數量
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   1
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    最大線路電流
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   15A
+  </li>
+ </ul>
+ <h4>
+  突波保護與篩選
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    浪湧能量額定值
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   4720焦耳 (Joule)
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    資料線保護
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   RJ-11 數據機/傳真機/DSL 保護〈四線雙路〉, RJ45 10/100/1000 Base-T 乙太網路保護, 纜線數據機/錄影保護
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    受護資料線
+    <br/>
+    （僅限多線）
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   1-4
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    峰值電流普通模式
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   40kAmps
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    峰值電流標準模式
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   20kAmps
+  </li>
+ </ul>
+ <h4>
+  實體標示
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    最大高度尺寸
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   395mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   39.5cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    最大寬度尺寸
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   95mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   9.5cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    最大深度尺寸
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   51mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   5.1cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    淨重
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0.95kg
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    出廠重量
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   1.23kg
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    裝運高度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   450mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   45.0cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    裝運寬度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   180mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   18.0cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    裝運深度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   60mm
+                                                      ,
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   6.0cm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <!-- Iterate through each section property values -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    顏色
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   Black
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    標準紙箱尺寸（長×寬×高）
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   506 x 275 x 597mm
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    標準紙箱單元
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   12.0
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    標準紙箱重量
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   15.45
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    每托盤單元數
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   384.0
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    SCC規範
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   1073130430252 7
+  </li>
+ </ul>
+ <h4>
+  環境
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    工作溫度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0 - 40 °C
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    相對作業濕度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0 - 95 %
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    作業高程
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0-3000公尺
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    貯藏溫度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   -15 - 45 °C
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    相對貯藏濕度
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0 - 95 %
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    貯藏高程
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   0-15000公尺
+  </li>
+ </ul>
+ <h4>
+  可持續提供狀態
+ </h4>
+ <ul class=""table-normal"">
+  <!-- Iterate through the each section -->
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    RoHS指令
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   符合
+  </li>
+  <!-- Find the corresponding property value from sku -->
+  <!-- Check if the sku property value is an array or map or constant value -->
+  <li class=""col-md-12 no-gutter"">
+   <div class=""col-md-3 bold"">
+    REACH
+   </div>
+   <!-- skuPropertyValue is irrelevant for rbkInterfaces -->
+   REACH: 不含SVHC
+  </li>
+ </ul>
+</div>
+",field_59cacf972c4a3,"<div class=""tab-pane"" id=""documentation"" role=""tabpanel"">
+ <div class=""row no-gutter"">
+  <div class=""col-md-12 doc-head"">
+   <div class=""col-md-7 text-left"">
+    <b class=""heading-3"">
+     手冊 &amp; 保固
+    </b>
+   </div>
+  </div>
+  <div class=""btm-line btm-line-custom mobile-hidden"">
+  </div>
+  <div class=""col-md-12 doc-head mobile-hidden"">
+   <div class=""col-md-7 text-left"">
+    <b>
+     頭銜
+    </b>
+   </div>
+   <div class=""col-md-1"">
+    <b>
+    </b>
+   </div>
+   <div class=""col-md-2"">
+    <b>
+     大小文本
+    </b>
+   </div>
+   <div class=""col-md-2"">
+    <b>
+     更新時間
+    </b>
+   </div>
+  </div>
+  <div class=""col-md-12 doc-cont list-block"">
+   <div class=""col-md-7 text-left list-item"">
+    <p class=""item-label desktop-hidden"">
+     頭銜
+    </p>
+    <a href=""http://www.apc.com/salestools/JGNY-8ZL8S2/JGNY-8ZL8S2_R0_EN.pdf"" target=""_blank"">
+     SurgeArrest P8VNTG-TW
+    </a>
+    <div class=""col-md-1 desktop-hidden"">
+     PDF
+    </div>
+   </div>
+   <div class=""col-md-1 mobile-hidden"">
+    PDF
+   </div>
+   <div class=""col-md-2 list-item"">
+    <p class=""item-label desktop-hidden"">
+     大小文本
+    </p>
+    <span class="" block"">
+     52KB
+    </span>
+   </div>
+   <div class=""col-md-2 list-item"">
+    <p class=""item-label desktop-hidden"">
+     更新時間
+    </p>
+    <span class=""block"">
+     2017-02-18
+    </span>
+   </div>
+   <br class=""mobile-hidden""/>
+   <div class=""col-md-7 text-left list-item abstract"">
+    User Manual SurgeArrest P8VNTG-TW
+   </div>
+  </div>
+ </div>
+</div>
+",field_59cad0f82c4a4,http://www.apc.com/shop/tw/zh/products/Personal-Surge-Localization-for-Taiwan-BSMI-Certification/P-P8VNTG-TW,field_59cac7347f0b1,,field_59cae4673d87b,5,field_59cae4c23d87c,1,120,field_59e24e9d0a136,,field_59cae4673d87b,,field_59e2506a8db5e,,field_59e251a612a9a,,field_59e2521908b44,,field_59e2527908b45,,field_59e2529808b46,,field_59e252a808b47,,field_59e252b708b48,,field_59e252c708b49,,field_59e252dc08b4a,,field_59e252fc08b4b,,field_59e2531008b4c,,field_59e253d008b4d,,field_59e253e608b4e,,field_59e253fa08b4f,,field_59e2540a08b50,,field_59e2542c08b51,,field_59e2546208b52,,field_59e2547b08b53,,field_59e2549d08b54,,field_59e254be08b55,,field_59e254cf08b56,,field_59e254e608b57,,field_59e254f908b58,,field_59e2550b08b59,,field_59e2553008b5a,,
